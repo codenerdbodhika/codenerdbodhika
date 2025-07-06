@@ -28,9 +28,9 @@
 ---
 
 ### 📫 Connect With Me:
-- 💼 [Kolabtree Profile](https://kolabtree.com) *(insert direct link if you have one)*
+- 💼 [Kolabtree Profile](https://kolabtree.com) *(https://www.kolabtree.com/profile)*
 - 📷 [Instagram @CodeNerdBodhika](https://instagram.com/CodeNerdBodhika)
-- ✉️ luckubioinfo@gmail.com
+- ✉️ bodhikasingh@outlook.com
 i there 👋
 
 <!--
